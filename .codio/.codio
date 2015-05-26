@@ -1,0 +1,12 @@
+{"commands": {
+"Start Plone":"plone-start.sh",
+"Stop Plone":"plone-stop.sh",
+"Debug Plone":"plone-debug.sh",
+"Admin Password": "cat $HOME/workspace/Plonedev/adminPassword.txt"
+},
+"preview": {
+"Plone site port 8080": "http://{{domain}}:8080/",
+"Static Index (static)": "https://{{domain}}/{{index}}",
+"Current File (static)": "https://{{domain}}/{{filepath}}"
+}
+}
