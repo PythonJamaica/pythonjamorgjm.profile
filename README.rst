@@ -10,7 +10,7 @@ Create a default project
 Then run the following commands on the terminal
 
 :: 
-
     
-    curl -L https://goo.gl/Kz0y7M | bash # install plone base
-    curl -L https://goo.gl/7FETZL | bash # install pythonjam profile
+    wget -qO- https://goo.gl/5iUKKq | bash
+
+You can launch the site from the Codio menu.
