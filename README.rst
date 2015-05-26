@@ -11,6 +11,6 @@ Then run the following commands on the terminal
 
 :: 
     
-    wget -qO- https://goo.gl/qq67OC | bash
+    wget -qO- https://goo.gl/gsq4aX | bash
 
 You can launch the site from the Codio menu.
