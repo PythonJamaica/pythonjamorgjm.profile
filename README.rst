@@ -12,5 +12,5 @@ Then run the following commands on the terminal
 :: 
 
     
-    curl -L https://goo.gl/TiXQAG | bash # install plone base
+    curl -L https://goo.gl/Kz0y7M | bash # install plone base
     curl -L https://goo.gl/7FETZL | bash # install pythonjam profile
