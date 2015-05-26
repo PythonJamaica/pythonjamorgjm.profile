@@ -3,7 +3,7 @@ import os
 
 version = '0.0.1'
 
-setup(name='pythonjamaica.profile',
+setup(name='pythonjamorgjm.profile',
       version=version,
       description="PythonJamaica Profile for Exam Platform",
       long_description=open("README.rst").read() + "\n" +
@@ -20,7 +20,7 @@ setup(name='pythonjamaica.profile',
       url='http://pythonjam.org.jm',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
-      namespace_packages=['pythonjamaica'],
+      namespace_packages=['pythonjamorgjm'],
       include_package_data=True,
       zip_safe=False,
       install_requires=[
