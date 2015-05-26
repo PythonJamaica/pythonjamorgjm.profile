@@ -6,7 +6,7 @@
     <dependency>profile-collective.workspace:default</dependency>
     <dependency>profile-tutorate.contenttypes:default</dependency>
     <dependency>profile-wildcard.foldercontents:default</dependency>
-    <dependency>profile-Produts.PloneFormGen:default</dependency>
+    <dependency>profile-Products.PloneFormGen:default</dependency>
     <dependency>profile-collective.js.jqueryui:default</dependency>
   </dependencies>
 </metadata>
